@@ -12,8 +12,6 @@ import io.restassured.specification.RequestSpecification;
 
 public class CaseTest extends BaseTest {
 
-    // Rest Assured hakkinda daha fazla bilgi icin: https://github.com/rest-assured/rest-assured/wiki/Usage_Legacy
-
     @Test
     // Harry Potter and the Sorcerer's Stone filminin indexini girerek id "By ID or Title" motodunda ki parametreleri kullanarak arama yapilmasi
     public void trendyolCase() { byID(findImdbIdSpecificMovie(1)); }
