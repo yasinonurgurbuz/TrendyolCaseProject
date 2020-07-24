@@ -1,4 +1,4 @@
-# Trendyol Case Project
+#Trendyol Case Project
 
 Aşağıda ki videoyu sadece linke sahip olanlar görebilir. Youtube arama sonuçlarında çıkmaz.
 
