@@ -1,6 +1,8 @@
 # Trendyol Case Project
 
-Rar dosyası içinde programın demo bir videosu bulunmaktadır.
+Aşağıda ki videoyu sadece linke sahip olanlar görebilir. Youtube arama sonuçlarında çıkmaz.
+
+Proje Demo Videosu: https://youtu.be/XR4PiV2FhB4
 
 Referanslar
 
